@@ -13,3 +13,22 @@ margin: 0 16px;
 padding: 24px 0;
 fort-size: 26px;
 }  
+
+.escola{
+    display: flex;
+    color: white;
+    background-image: radial-gradient(circle at 64.87% 18.11%, #d1ffff 0, #a3eaff 16.67%, #6fd26f 34.46%, #00b8ff 40%, #009ef6 76.68%, #0086ed 29.38%, #0070e4 100%);
+    justify-content: center;
+    align-items: center;
+    padding: 0 24px;
+
+}
+
+.escola-conteudo {
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+
+body{ 
