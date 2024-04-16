@@ -30,5 +30,12 @@ fort-size: 26px;
 .escola-titulo{
     padding: 24px 0;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
-body{ 
+
+
+.estudante-div{
+    text-align: center;;
+}
